@@ -3,7 +3,7 @@
 namespace Hootlex\Friendships\Models;
 
 use Hootlex\Friendships\Status;
-Jenssegers\Mongodb\Eloquent\Model
+use Jenssegers\Mongodb\Eloquent\Model
 
     /**
  * Class Friendship
