@@ -3,9 +3,9 @@
 namespace Hootlex\Friendships\Models;
 
 use Hootlex\Friendships\Status;
-use Illuminate\Database\Eloquent\Model;
+Jenssegers\Mongodb\Eloquent\Model
 
-/**
+    /**
  * Class Friendship
  * @package Hootlex\Friendships\Models
  */
