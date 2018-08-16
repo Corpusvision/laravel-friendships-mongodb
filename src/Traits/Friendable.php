@@ -5,7 +5,7 @@ namespace Hootlex\Friendships\Traits;
 use Hootlex\Friendships\Models\Friendship;
 use Hootlex\Friendships\Models\FriendFriendshipGroups;
 use Hootlex\Friendships\Status;
-use Illuminate\Database\Eloquent\Model;
+use  Jenssegers\Mongodb\Eloquent\Model;
 use Illuminate\Support\Facades\Event;
 
 /**
